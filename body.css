@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shayan</title>
+  <link rel="shortcut icon" href="yt sheri.jpg" type="image/x-icon">
+</head>
+<body>
+  <p style="color: brown; text-align: center;background-color: rgb(14, 228, 143);font-size: 50px; "> I Love Bangladesh </p>
+  <br>
+  <br>
+  <br>
+  <p>
+   <b> Beutifull Bangladesh</b> (Bolt)
+   <br>
+   <strong> Beutifull Bangladesh</strong>( Strong)
+   <br>
+   <i> Beutifull Bangladesh</i> (Italic) <br>
+   <em> Beutifull Bangladesh</em> (Emtesics) <br>
+            <small> Beutifull Bangladesh</small> (small) <br>
+            <u> Beutifull Bangladesh</u> (underlin) <br>
+         <ins> Beutifull Bangladesh</ins>   (insart) <br>
+         <del> Beutifull Bangladesh</del> (delet) <br>
+         <mark> Beutifull Bangladesh</mark> (mark) <br>
+         Beutifull <sub>2</sub> Bangladesh <br>
+         Beutifull <sup>6</sup> Bangladesh <sup>9</sup> <br>
+         Beutifull  <abbr title=" Bangladesh"> BD</abbr> <br>
+         <bdo dir="rtl"> Beutifull Bangladesh</bdo> <br>
+         <br>
+         <br>
+         <br>
+         <br>
+         <h1>Students ID</h1> <br>
+         <br>
+        </p>
+        <p>
+          <table border="1"> 
+            <tr>
+              <th>Name</th>
+              <th>Address</th>
+              <th>Roll</th>
+            </tr>
+            <tr>
+              <td>Shamim</td>
+              <td>Manikganj</td>
+              <td>05</td>
+            </tr>
+           </table>
+            
+        </p>
+
+
+        <ol type="A">
+          <li>Shamim</li>
+          <li>Shayan</li>
+          <li>Shanto</li>
+          <li>Ahad</li>
+          <li>Nahid</li>
+
+        </ol>
+        <ul type="square">
+          <li>Shamim</li>
+          <li>Shayan</li>
+          <li>Shanto</li>
+          <li>Ahad</li>
+          <li>Nahid</li> 
+        </ul>
+       <b><hr></b> 
+      
+  <form action="">
+
+    <hr>
+    <h1 style="text-align: center;">Sing Up </h1>
+    <hr>
+           <label for="name">Name : </label>
+           <input type="text" id="name" placeholder="Your Name">
+           <br>
+           <br>
+           <label for="email">Email:</label>
+           <input type="text" name="" id="email" placeholder="Enter Your Mail" required>
+           <br>
+           <br>
+           <label for="pass">Password :</label>
+           <input type="text" id="pass" placeholder="Password" required> 
+           <br><br>
+           <label for="country">Country:</label>
+           <input list="countrycode">
+           <datalist id="countrycode">
+            <option value="Bangladesh">Bangladesh</option>
+            <option value="Bangladesh">Bangladesh</option>
+            <option value="Bangladesh">Bangladesh</option>
+            <option value="Bangladesh">Bangladesh</option>
+            <option value="Bangladesh">Bangladesh</option>
+            <option value="Bangladesh">Bangladesh</option>
+            <option value="Bangladesh">Bangladesh</option>
+           </datalist>
+      
+           <br><br>
+           <label for="phn">Phone:</label>
+           <select name="code">
+            <option value="+880">+880</option>
+            <option value="+850">+850</option>
+            <option value="+980">+980</option>
+            <option value="+210">+210</option>
+            <option value="+420">+420</option>
+            <option value="+570">+570</option>
+            <option value="+610">+610</option>
+            <option value="+710">+710</option>
+           </select>
+           <input type="text" id="phn" placeholder="123456789" required>
+           <br><br>
+           Gender:
+           <input type="radio" id="gnd1" name="gender">
+           <label for="gnd1">Male</label>
+           <input type="radio" id="gnd2" name="gender">
+           <label for="gnd2">Female</label>
+           <br><br>
+           <label for="dofb">Date Of Birth:</label>
+           <input type="date" id="dofb">
+           <br><br>
+           <label for="time">Time:</label>
+           <input type="time" id="time" >
+           <br><br>
+           <label for="frvcl">Favrate Color:</label>
+           <input type="color" id="frvcl" name="Color">
+           <br><br>
+           <label for="file">Your CV :</label>
+           <input type="file" id="file" name="file">
+           <br><br>
+           <input type="checkbox" id="vehiclel" name="vehiclel">
+           <label for="vehiclel">I have a bike</label>
+           <input type="checkbox" id="vehiclel" name="vehiclel">
+           <label for="vehiclel">I have a bycyle</label>
+           <input type="checkbox" id="vehiclel" name="vehiclel">
+           <label for="vehiclel">I have a car</label>
+           <br><br>
+    
+           <textarea name="Comment" id="">Your Comment</textarea>
+           <br><br>
+           <input type="submit" value="Send" style="color: green;">
+           <input type="submit" value="Reset">
+
+
+
+
+
+           
+  </form>
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
